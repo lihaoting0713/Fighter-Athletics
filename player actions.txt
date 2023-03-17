@@ -1,0 +1,22 @@
+Hey! These are your actions in the game
+
+go east
+get ready for boxing
+start boxing training
+exit boxing room
+enter boxing room
+go south
+enter arms training room
+choose 20kg weight for arms
+exit arms training room
+go west
+choose 90kg weight for legs
+enter leg training room
+wrong command
+go north
+start running
+exit sprint room
+enter sprint room
+enter final challenge room
+start fighting with the boss
+exit the final challenge room
